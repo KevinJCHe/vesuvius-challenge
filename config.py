@@ -1,0 +1,2 @@
+username = "registeredusers"
+password = "only"
