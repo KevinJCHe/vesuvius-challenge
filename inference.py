@@ -41,6 +41,7 @@ class ARGS:
     in_chans = 30 # 65
     tile_size = 64
     train_batch_size = 128
+    valid_batch_size = 128
     num_workers = 1
 
 def crop(img, height_window=None, width_window=None):
